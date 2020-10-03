@@ -1,8 +1,5 @@
 # Jean Perez Dulzaides - FIU
-
-
-
-
+# New comment to upload to git
 
 import cleanWords
 import main_functions
